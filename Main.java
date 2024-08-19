@@ -17,5 +17,9 @@ public class Main {
         System.out.println("Frame Size: " + frameSize);
         System.out.println("----------------------------------------------------");
         algorithms.FIFO();
+        System.out.println();
+        algorithms.LRU();
+        System.out.println();
+        algorithms.MRU();
     }
 }

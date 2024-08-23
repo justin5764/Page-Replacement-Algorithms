@@ -149,6 +149,5 @@ public class Algorithms {
 
         System.out.println("Page Hits: " + pageHits);
         System.out.println("Page Faults: " + pageFaults);
-        
     }
 }
